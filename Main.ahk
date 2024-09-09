@@ -2434,7 +2434,6 @@ containsText(x, y, width, height, text) {
         pbm := Gdip_BitmapFromScreen(x "|" y "|" width "|" height)
         pbm := Gdip_ResizeBitmap(pbm,500,500,true)
         ocrText := ocrFromBitmap(pbm)
-        MsgBox, %ocrText%
         Gdip_DisposeBitmap(pbm)
 
         if (!ocrText) {
