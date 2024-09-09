@@ -1,0 +1,1693 @@
+07:57:21 Macro opened
+07:57:21 [loadData] Loading config data
+07:57:21 [loadData] Missing key: ArcanePath
+07:57:21 [loadData] Missing key: AutoEquipAura
+07:57:21 [loadData] Missing key: AutoEquipEnabled
+07:57:21 [loadData] Missing key: AutoEquipX
+07:57:21 [loadData] Missing key: AutoEquipY
+07:57:21 [loadData] Missing key: AzertyLayout
+07:57:21 [loadData] Missing key: BackOffset
+07:57:21 [loadData] Missing key: CheckObbyBuff
+07:57:21 [loadData] Missing key: ClaimDailyQuests
+07:57:22 [loadData] Missing key: CollectionLoops
+07:57:22 [loadData] Missing key: CollectItems
+07:57:22 [loadData] Missing key: CraftingInterval
+07:57:22 [loadData] Missing key: Disconnects
+07:57:22 [loadData] Missing key: DiscordGlitchID
+07:57:22 [loadData] Missing key: DiscordUserID
+07:57:22 [loadData] Missing key: DoingObby
+07:57:22 [loadData] Missing key: ExtraRoblox
+07:57:22 [loadData] Missing key: FirstTime
+07:57:22 [loadData] Missing key: InOwnPrivateServer
+07:57:22 [loadData] Missing key: InvScreenshotsEnabled
+07:57:22 [loadData] Missing key: ItemCraftingEnabled
+07:57:22 [loadData] Missing key: ItemSpot1
+07:57:22 [loadData] Missing key: ItemSpot2
+07:57:22 [loadData] Missing key: ItemSpot3
+07:57:22 [loadData] Missing key: ItemSpot4
+07:57:22 [loadData] Missing key: ItemSpot5
+07:57:22 [loadData] Missing key: ItemSpot6
+07:57:22 [loadData] Missing key: ItemSpot7
+07:57:22 [loadData] Missing key: LastAnnouncement
+07:57:22 [loadData] Missing key: LastCraftSession
+07:57:22 [loadData] Missing key: LastInvScreenshot
+07:57:22 [loadData] Missing key: LastPotionAutoAdd
+07:57:22 [loadData] Missing key: LastRobloxRestart
+07:57:22 [loadData] Missing key: ObbyAttempts
+07:57:22 [loadData] Missing key: ObbyCompletes
+07:57:22 [loadData] Missing key: OCREnabled
+07:57:22 [loadData] Missing key: PotionAutoAddEnabled
+07:57:22 [loadData] Missing key: PotionAutoAddInterval
+07:57:22 [loadData] Missing key: PotionCraftingEnabled
+07:57:22 [loadData] Missing key: PotionCraftingSlot1
+07:57:22 [loadData] Missing key: PotionCraftingSlot2
+07:57:22 [loadData] Missing key: PotionCraftingSlot3
+07:57:22 [loadData] Missing key: PrivateServerId
+07:57:22 [loadData] Missing key: ReconnectEnabled
+07:57:22 [loadData] Missing key: RestartRobloxEnabled
+07:57:22 [loadData] Missing key: RestartRobloxInterval
+07:57:22 [loadData] Missing key: RobloxUpdatedUI
+07:57:22 [loadData] Missing key: RunTime
+07:57:22 [loadData] Missing key: Screenshotinterval
+07:57:22 [loadData] Missing key: SearchSpecialAuras
+07:57:23 [loadData] Missing key: Shifter
+07:57:23 [loadData] Missing key: StatusBarEnabled
+07:57:23 [loadData] Missing key: VIP
+07:57:23 [loadData] Missing key: WasRunning
+07:57:23 [loadData] Missing key: WebhookAuraRollImages
+07:57:23 [loadData] Missing key: WebhookEnabled
+07:57:23 [loadData] Missing key: WebhookImportantOnly
+07:57:23 [loadData] Missing key: WebhookLink
+07:57:23 [loadData] Missing key: WebhookRollPingMinimum
+07:57:23 [loadData] Missing key: WebhookRollSendMinimum
+07:57:23 [loadData] Missing key: WindowX
+07:57:23 [loadData] Missing key: WindowY
+07:57:23     [GetRobloxHWND] Roblox Process: Unknown
+07:57:57 [loadData] Loading config data
+08:01:15 =====================================
+08:01:16 [updateStatus] New status: Starting Macro
+08:01:16 System Information:
+08:01:16     OS Version: 10.0.22631
+08:01:16     AHK Version: 1.1.37.02
+08:01:16     Screen Width: 1920
+08:01:16     Screen Height: 1080
+08:01:16     Screen DPI: 144
+08:01:16     Active Language: Unknown
+08:01:16 Macro Variables:
+08:01:16     Version: v1.5.0
+08:01:16     OCR Enabled: 0
+08:01:16 [updateStatus] New status: Macro Started
+08:01:16 Roblox Information:
+08:01:16     Window ID: 0xa0d46
+08:01:16     Width: 1920
+08:01:16     Height: 974
+08:01:17 
+08:01:17 [startMacro] Starting main loop
+08:01:17 [checkDisconnect] Checking for disconnect
+08:01:18 [updateStatus] New status: Initializing
+08:01:19 New Biome: Snowy
+08:01:46 [updateStatus] New status: Performing Mouse Actions
+08:01:47 [updateStatus] New status: Inventory screenshots
+08:01:56 [updateStatus] New status: Using items
+08:01:56     Using item: Biome Randomizer
+08:02:02 New Biome: Starfall
+08:02:04 [updateStatus] New status: Using items
+08:02:04     Using item: Merchant Teleport
+08:02:11 Paths running: 0
+08:02:11 [updateStatus] New status: Macro Paused
+08:02:11 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:03:04 =====================================
+08:03:04 [updateStatus] New status: Starting Macro
+08:03:05 System Information:
+08:03:05     OS Version: 10.0.22631
+08:03:05     AHK Version: 1.1.37.02
+08:03:05     Screen Width: 1920
+08:03:05     Screen Height: 1080
+08:03:05     Screen DPI: 144
+08:03:05     Active Language: Unknown
+08:03:05 Macro Variables:
+08:03:05     Version: v1.5.0
+08:03:05     OCR Enabled: 0
+08:03:05 [updateStatus] New status: Macro Started
+08:03:05 Roblox Information:
+08:03:05     Window ID: 0xa0d46
+08:03:05     Width: 1920
+08:03:05     Height: 974
+08:03:05 
+08:03:05 [startMacro] Starting main loop
+08:03:06 [checkDisconnect] Checking for disconnect
+08:03:06 [updateStatus] New status: Performing Mouse Actions
+08:03:08 New Biome: Starfall
+08:03:08 [updateStatus] New status: Using items
+08:03:08     Using item: Merchant Teleport
+08:03:16 Paths running: 0
+08:03:16 [updateStatus] New status: Macro Paused
+08:03:16 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:03:29 =====================================
+08:03:29 [updateStatus] New status: Starting Macro
+08:03:29 System Information:
+08:03:29     OS Version: 10.0.22631
+08:03:29     AHK Version: 1.1.37.02
+08:03:29     Screen Width: 1920
+08:03:29     Screen Height: 1080
+08:03:29     Screen DPI: 144
+08:03:29     Active Language: Unknown
+08:03:29 Macro Variables:
+08:03:29     Version: v1.5.0
+08:03:29     OCR Enabled: 0
+08:03:29 [updateStatus] New status: Macro Started
+08:03:29 Roblox Information:
+08:03:29     Window ID: 0xa0d46
+08:03:30     Width: 1920
+08:03:30     Height: 974
+08:03:30 
+08:03:30 [startMacro] Starting main loop
+08:03:30 [checkDisconnect] Checking for disconnect
+08:03:31 [updateStatus] New status: Performing Mouse Actions
+08:03:32 New Biome: Starfall
+08:03:32 [updateStatus] New status: Using items
+08:03:32     Using item: Merchant Teleport
+08:03:40 Paths running: 0
+08:03:40 [updateStatus] New status: Macro Paused
+08:03:40 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:04:40 [updateStatus] New status: Macro Stopped
+08:04:40 [stop] Terminating application.
+08:04:46 Macro opened
+08:04:47 [loadData] Loading config data
+08:05:01 [stop] Terminating application.
+08:16:30 Macro opened
+08:16:31 [loadData] Loading config data
+08:16:33 [stop] Terminating application.
+08:16:43 Macro opened
+08:16:43 [loadData] Loading config data
+08:17:20 [stop] Terminating application.
+08:34:05 Macro opened
+08:34:05 [loadData] Loading config data
+08:37:14 [stop] Terminating application.
+08:37:22 Macro opened
+08:37:22 [loadData] Loading config data
+08:37:48 =====================================
+08:37:48 [updateStatus] New status: Starting Macro
+08:37:49 System Information:
+08:37:49     OS Version: 10.0.22631
+08:37:49     AHK Version: 1.1.37.02
+08:37:49     Screen Width: 1920
+08:37:49     Screen Height: 1080
+08:37:49     Screen DPI: 144
+08:37:49     Active Language: Unknown
+08:37:49 Macro Variables:
+08:37:49     Version: v1.5.0
+08:37:49     OCR Enabled: 0
+08:37:49 [updateStatus] New status: Macro Started
+08:37:49 Roblox Information:
+08:37:49     Window ID: 0xe0f04
+08:37:49     Width: 1920
+08:37:49     Height: 974
+08:37:49 
+08:37:49 [startMacro] Starting main loop
+08:37:49 [checkDisconnect] Checking for disconnect
+08:37:50 [updateStatus] New status: Initializing
+08:38:11 Paths running: 0
+08:38:11 [updateStatus] New status: Macro Paused
+08:38:20 Paths running: 0
+08:38:20 [updateStatus] New status: Macro Running
+08:38:24 Paths running: 0
+08:38:24 [updateStatus] New status: Macro Paused
+08:38:34 Paths running: 0
+08:38:34 [updateStatus] New status: Macro Running
+08:38:34 [updateStatus] New status: Performing Mouse Actions
+08:38:35 [updateStatus] New status: Using items
+08:38:35     Using item: Biome Randomizer
+08:38:43 [updateStatus] New status: Macro Stopped
+08:38:44 Macro opened
+08:38:44 [loadData] Loading config data
+08:38:50 =====================================
+08:38:50 [updateStatus] New status: Starting Macro
+08:38:50 System Information:
+08:38:50     OS Version: 10.0.22631
+08:38:50     AHK Version: 1.1.37.02
+08:38:50     Screen Width: 1920
+08:38:50     Screen Height: 1080
+08:38:50     Screen DPI: 144
+08:38:50     Active Language: Unknown
+08:38:50 Macro Variables:
+08:38:50     Version: v1.5.0
+08:38:50     OCR Enabled: 0
+08:38:50 [updateStatus] New status: Macro Started
+08:38:51 Roblox Information:
+08:38:51     Window ID: 0xe0f04
+08:38:51     Width: 1920
+08:38:51     Height: 974
+08:38:51 
+08:38:51 [startMacro] Starting main loop
+08:38:51 [checkDisconnect] Checking for disconnect
+08:38:52 [updateStatus] New status: Initializing
+08:39:18 [updateStatus] New status: Performing Mouse Actions
+08:39:20 [updateStatus] New status: Using items
+08:39:20     Using item: Biome Randomizer
+08:39:27 New Biome: Hell
+08:39:31 [updateStatus] New status: Searching for Items
+08:39:45 [updateStatus] New status: Macro Stopped
+08:39:45     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+08:39:46 Macro opened
+08:39:46 [loadData] Loading config data
+08:41:05 =====================================
+08:41:05 [updateStatus] New status: Starting Macro
+08:41:06 System Information:
+08:41:06     OS Version: 10.0.22631
+08:41:06     AHK Version: 1.1.37.02
+08:41:06     Screen Width: 1920
+08:41:06     Screen Height: 1080
+08:41:06     Screen DPI: 144
+08:41:06     Active Language: Unknown
+08:41:06 Macro Variables:
+08:41:06     Version: v1.5.0
+08:41:06     OCR Enabled: 0
+08:41:06 [updateStatus] New status: Macro Started
+08:41:06 Roblox Information:
+08:41:06     Window ID: 0xe0f04
+08:41:06     Width: 1920
+08:41:06     Height: 974
+08:41:06 
+08:41:06 [startMacro] Starting main loop
+08:41:06 [checkDisconnect] Checking for disconnect
+08:41:07 [updateStatus] New status: Initializing
+08:41:08 New Biome: Hell
+08:41:34 [updateStatus] New status: Performing Mouse Actions
+08:41:35 [updateStatus] New status: Using items
+08:41:35     Using item: Merchant Teleport
+08:41:43 Paths running: 0
+08:41:43 [updateStatus] New status: Macro Paused
+08:41:43 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:42:07 =====================================
+08:42:07 [updateStatus] New status: Starting Macro
+08:42:07 System Information:
+08:42:07     OS Version: 10.0.22631
+08:42:07     AHK Version: 1.1.37.02
+08:42:07     Screen Width: 1920
+08:42:07     Screen Height: 1080
+08:42:07     Screen DPI: 144
+08:42:07     Active Language: Unknown
+08:42:07 Macro Variables:
+08:42:07     Version: v1.5.0
+08:42:07     OCR Enabled: 0
+08:42:07 [updateStatus] New status: Macro Started
+08:42:08 Roblox Information:
+08:42:08     Window ID: 0xe0f04
+08:42:08     Width: 1920
+08:42:08     Height: 974
+08:42:08 
+08:42:08 [startMacro] Starting main loop
+08:42:08 [checkDisconnect] Checking for disconnect
+08:42:09 [updateStatus] New status: Performing Mouse Actions
+08:42:10 New Biome: Hell
+08:42:10 [updateStatus] New status: Using items
+08:42:10     Using item: Biome Randomizer
+08:42:21 [updateStatus] New status: Searching for Items
+08:42:40 [checkDisconnect] Checking for disconnect
+08:42:41 [updateStatus] New status: Performing Mouse Actions
+08:42:45 [updateStatus] New status: Searching for Items
+08:42:51 [updateStatus] New status: Macro Stopped
+08:42:51     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+08:42:52 Macro opened
+08:42:52 [loadData] Loading config data
+08:43:15 =====================================
+08:43:15 [updateStatus] New status: Starting Macro
+08:43:16 System Information:
+08:43:16     OS Version: 10.0.22631
+08:43:16     AHK Version: 1.1.37.02
+08:43:16     Screen Width: 1920
+08:43:16     Screen Height: 1080
+08:43:16     Screen DPI: 144
+08:43:16     Active Language: Unknown
+08:43:16 Macro Variables:
+08:43:16     Version: v1.5.0
+08:43:16     OCR Enabled: 0
+08:43:16 [updateStatus] New status: Macro Started
+08:43:16 Roblox Information:
+08:43:16     Window ID: 0xe0f04
+08:43:16     Width: 1920
+08:43:16     Height: 974
+08:43:16 
+08:43:16 [startMacro] Starting main loop
+08:43:17 [checkDisconnect] Checking for disconnect
+08:43:18 [updateStatus] New status: Initializing
+08:43:18 New Biome: Hell
+08:43:44 [updateStatus] New status: Performing Mouse Actions
+08:43:46 [updateStatus] New status: Using items
+08:43:46     Using item: Merchant Teleport
+08:43:54 Paths running: 0
+08:43:54 [updateStatus] New status: Macro Paused
+08:43:54 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:46:41 =====================================
+08:46:41 [updateStatus] New status: Starting Macro
+08:46:42 System Information:
+08:46:42     OS Version: 10.0.22631
+08:46:42     AHK Version: 1.1.37.02
+08:46:42     Screen Width: 1920
+08:46:42     Screen Height: 1080
+08:46:42     Screen DPI: 144
+08:46:42     Active Language: Unknown
+08:46:42 Macro Variables:
+08:46:42     Version: v1.5.0
+08:46:42     OCR Enabled: 0
+08:46:42 [updateStatus] New status: Macro Started
+08:46:42 Roblox Information:
+08:46:42     Window ID: 0xe0f04
+08:46:42     Width: 1920
+08:46:42     Height: 974
+08:46:42 
+08:46:42 [startMacro] Starting main loop
+08:46:43 [checkDisconnect] Checking for disconnect
+08:46:44 [updateStatus] New status: Performing Mouse Actions
+08:46:45 New Biome: Hell
+08:46:45 [updateStatus] New status: Using items
+08:46:45     Using item: Merchant Teleport
+08:46:53 Paths running: 0
+08:46:53 [updateStatus] New status: Macro Paused
+08:46:53 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:48:48 =====================================
+08:48:49 [updateStatus] New status: Starting Macro
+08:48:49 System Information:
+08:48:49     OS Version: 10.0.22631
+08:48:49     AHK Version: 1.1.37.02
+08:48:49     Screen Width: 1920
+08:48:49     Screen Height: 1080
+08:48:49     Screen DPI: 144
+08:48:49     Active Language: Unknown
+08:48:49 Macro Variables:
+08:48:49     Version: v1.5.0
+08:48:49     OCR Enabled: 0
+08:48:50 [updateStatus] New status: Macro Started
+08:48:50 Roblox Information:
+08:48:50     Window ID: 0xe0f04
+08:48:50     Width: 1920
+08:48:50     Height: 974
+08:48:50 
+08:48:50 [startMacro] Starting main loop
+08:48:50 [checkDisconnect] Checking for disconnect
+08:48:51 [updateStatus] New status: Performing Mouse Actions
+08:48:52 New Biome: Hell
+08:48:53 [updateStatus] New status: Using items
+08:48:53     Using item: Merchant Teleport
+08:49:00 Paths running: 0
+08:49:01 [updateStatus] New status: Macro Paused
+08:49:01 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:51:31 New Biome: Normal
+08:51:39 =====================================
+08:51:39 [updateStatus] New status: Starting Macro
+08:51:39 System Information:
+08:51:39     OS Version: 10.0.22631
+08:51:39     AHK Version: 1.1.37.02
+08:51:39     Screen Width: 1920
+08:51:39     Screen Height: 1080
+08:51:40     Screen DPI: 144
+08:51:40     Active Language: Unknown
+08:51:40 Macro Variables:
+08:51:40     Version: v1.5.0
+08:51:40     OCR Enabled: 0
+08:51:40 [updateStatus] New status: Macro Started
+08:51:40 Roblox Information:
+08:51:40     Window ID: 0xe0f04
+08:51:40     Width: 1920
+08:51:40     Height: 974
+08:51:40 
+08:51:40 [startMacro] Starting main loop
+08:51:40 [checkDisconnect] Checking for disconnect
+08:51:41 [updateStatus] New status: Performing Mouse Actions
+08:51:43 [updateStatus] New status: Using items
+08:51:43     Using item: Merchant Teleport
+08:51:51 Paths running: 0
+08:51:51 [updateStatus] New status: Macro Paused
+08:51:51 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+08:55:47 [stop] Terminating application.
+08:55:59 Macro opened
+08:55:59 [loadData] Loading config data
+08:56:04 =====================================
+08:56:04 [updateStatus] New status: Starting Macro
+08:56:05 System Information:
+08:56:05     OS Version: 10.0.22631
+08:56:05     AHK Version: 1.1.37.02
+08:56:05     Screen Width: 1920
+08:56:05     Screen Height: 1080
+08:56:05     Screen DPI: 144
+08:56:05     Active Language: Unknown
+08:56:05 Macro Variables:
+08:56:05     Version: v1.5.0
+08:56:05     OCR Enabled: 0
+08:56:05 [updateStatus] New status: Macro Started
+08:56:05 Roblox Information:
+08:56:05     Window ID: 0xe0f04
+08:56:05     Width: 1920
+08:56:05     Height: 974
+08:56:05 
+08:56:05 [startMacro] Starting main loop
+08:56:06 [checkDisconnect] Checking for disconnect
+08:56:06 [updateStatus] New status: Initializing
+08:56:33 [updateStatus] New status: Performing Mouse Actions
+08:56:35 [updateStatus] New status: Using items
+08:56:35     Using item: Biome Randomizer
+08:56:46 [updateStatus] New status: Searching for Items
+08:57:24 [checkDisconnect] Checking for disconnect
+08:57:25 [updateStatus] New status: Performing Mouse Actions
+08:57:30 [updateStatus] New status: Searching for Items
+08:58:09 [checkDisconnect] Checking for disconnect
+08:58:11 [updateStatus] New status: Performing Mouse Actions
+08:58:15 [updateStatus] New status: Searching for Items
+08:58:19 [updateStatus] New status: Macro Stopped
+08:58:19     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+08:58:20 Macro opened
+08:58:20 [loadData] Loading config data
+08:59:33 =====================================
+08:59:33 [updateStatus] New status: Starting Macro
+08:59:34 System Information:
+08:59:34     OS Version: 10.0.22631
+08:59:34     AHK Version: 1.1.37.02
+08:59:34     Screen Width: 1920
+08:59:34     Screen Height: 1080
+08:59:34     Screen DPI: 144
+08:59:34     Active Language: Unknown
+08:59:34 Macro Variables:
+08:59:34     Version: v1.5.0
+08:59:34     OCR Enabled: 0
+08:59:34 [updateStatus] New status: Macro Started
+08:59:34 Roblox Information:
+08:59:34     Window ID: 0xe0f04
+08:59:34     Width: 1920
+08:59:34     Height: 974
+08:59:34 
+08:59:34 [startMacro] Starting main loop
+08:59:34 [checkDisconnect] Checking for disconnect
+08:59:35 [updateStatus] New status: Initializing
+09:00:01 [updateStatus] New status: Macro Stopped
+09:00:03 Macro opened
+09:00:03 [loadData] Loading config data
+09:01:35 =====================================
+09:01:35 [updateStatus] New status: Starting Macro
+09:01:35 System Information:
+09:01:35     OS Version: 10.0.22631
+09:01:36     AHK Version: 1.1.37.02
+09:01:36     Screen Width: 1920
+09:01:36     Screen Height: 1080
+09:01:36     Screen DPI: 144
+09:01:36     Active Language: Unknown
+09:01:36 Macro Variables:
+09:01:36     Version: v1.5.0
+09:01:36     OCR Enabled: 0
+09:01:36 [updateStatus] New status: Macro Started
+09:01:36 Roblox Information:
+09:01:36     Window ID: 0xe0f04
+09:01:36     Width: 1920
+09:01:36     Height: 974
+09:01:36 
+09:01:36 [startMacro] Starting main loop
+09:01:37 [checkDisconnect] Checking for disconnect
+09:01:38 [updateStatus] New status: Initializing
+09:01:39 New Biome: Snowy
+09:02:04 [updateStatus] New status: Performing Mouse Actions
+09:02:06 [updateStatus] New status: Using items
+09:02:06     Using item: Biome Randomizer
+09:02:13 New Biome: Windy
+09:02:17 [updateStatus] New status: Searching for Items
+09:02:28 [updateStatus] New status: Macro Stopped
+09:02:28     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+09:02:29 Macro opened
+09:02:29 [loadData] Loading config data
+09:04:31 =====================================
+09:04:31 [updateStatus] New status: Starting Macro
+09:04:31 System Information:
+09:04:31     OS Version: 10.0.22631
+09:04:31     AHK Version: 1.1.37.02
+09:04:32     Screen Width: 1920
+09:04:32     Screen Height: 1080
+09:04:32     Screen DPI: 144
+09:04:32     Active Language: Unknown
+09:04:32 Macro Variables:
+09:04:32     Version: v1.5.0
+09:04:32     OCR Enabled: 0
+09:04:32 [updateStatus] New status: Macro Started
+09:04:32 Roblox Information:
+09:04:32     Window ID: 0xe0f04
+09:04:32     Width: 1920
+09:04:32     Height: 974
+09:04:32 
+09:04:32 [startMacro] Starting main loop
+09:04:32 [checkDisconnect] Checking for disconnect
+09:04:33 [updateStatus] New status: Initializing
+09:04:33 [updateStatus] New status: Performing Mouse Actions
+09:04:35 [updateStatus] New status: Using items
+09:04:35     Using item: Biome Randomizer
+09:04:42 [updateStatus] New status: Using items
+09:04:42     Using item: Merchant Teleport
+09:04:50 Paths running: 0
+09:04:50 [updateStatus] New status: Macro Paused
+09:04:50 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3192
+message: 1
+extra: 
+09:04:52 [updateStatus] New status: Macro Stopped
+09:04:53 Macro opened
+09:04:53 [loadData] Loading config data
+09:08:09 [stop] Terminating application.
+09:08:14 Macro opened
+09:08:14 [loadData] Loading config data
+09:08:49 =====================================
+09:08:49 [updateStatus] New status: Starting Macro
+09:08:49 System Information:
+09:08:49     OS Version: 10.0.22631
+09:08:49     AHK Version: 1.1.37.02
+09:08:49     Screen Width: 1920
+09:08:49     Screen Height: 1080
+09:08:49     Screen DPI: 144
+09:08:49     Active Language: Unknown
+09:08:49 Macro Variables:
+09:08:50     Version: v1.5.0
+09:08:50     OCR Enabled: 0
+09:08:50 [updateStatus] New status: Macro Started
+09:08:50 Roblox Information:
+09:08:50     Window ID: 0xe0f04
+09:08:50     Width: 1920
+09:08:50     Height: 974
+09:08:50 
+09:08:50 [startMacro] Starting main loop
+09:08:50 [checkDisconnect] Checking for disconnect
+09:08:51 [updateStatus] New status: Initializing
+09:08:58 New Biome: Rainy
+09:09:18 [updateStatus] New status: Performing Mouse Actions
+09:09:20 [updateStatus] New status: Using items
+09:09:20     Using item: Biome Randomizer
+09:09:27 [updateStatus] New status: Using items
+09:09:27     Using item: Merchant Teleport
+09:09:38 [updateStatus] New status: Searching for Items
+09:09:48 [updateStatus] New status: Macro Stopped
+09:09:48     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+09:09:49 Macro opened
+09:09:49 [loadData] Loading config data
+09:10:51 =====================================
+09:10:51 [updateStatus] New status: Starting Macro
+09:10:51 System Information:
+09:10:51     OS Version: 10.0.22631
+09:10:51     AHK Version: 1.1.37.02
+09:10:51     Screen Width: 1920
+09:10:51     Screen Height: 1080
+09:10:51     Screen DPI: 144
+09:10:51     Active Language: Unknown
+09:10:51 Macro Variables:
+09:10:52     Version: v1.5.0
+09:10:52     OCR Enabled: 0
+09:10:52 [updateStatus] New status: Macro Started
+09:10:52 Roblox Information:
+09:10:52     Window ID: 0xe0f04
+09:10:52     Width: 1920
+09:10:52     Height: 974
+09:10:52 
+09:10:52 [startMacro] Starting main loop
+09:10:52 [checkDisconnect] Checking for disconnect
+09:10:53 [updateStatus] New status: Initializing
+09:11:20 [updateStatus] New status: Performing Mouse Actions
+09:11:21 [updateStatus] New status: Using items
+09:11:21     Using item: Biome Randomizer
+09:11:29 [updateStatus] New status: Using items
+09:11:29     Using item: Merchant Teleport
+09:11:40 [updateStatus] New status: Searching for Items
+09:11:56 Paths running: 1
+09:11:56     [PausePaths] Pausing path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+09:11:56     Paused: 1
+09:11:56 [updateStatus] New status: Macro Paused
+09:14:42 [updateStatus] New status: Macro Stopped
+09:14:42     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+09:14:43 [stop] Terminating application.
+09:14:46 Macro opened
+09:14:46 [loadData] Loading config data
+09:14:50 =====================================
+09:14:50 [updateStatus] New status: Starting Macro
+09:14:51 System Information:
+09:14:51     OS Version: 10.0.22631
+09:14:51     AHK Version: 1.1.37.02
+09:14:51     Screen Width: 1920
+09:14:51     Screen Height: 1080
+09:14:51     Screen DPI: 144
+09:14:51     Active Language: Unknown
+09:14:51 Macro Variables:
+09:14:51     Version: v1.5.0
+09:14:51     OCR Enabled: 0
+09:14:51 [updateStatus] New status: Macro Started
+09:14:51 Roblox Information:
+09:14:51     Window ID: 0xe0f04
+09:14:51     Width: 1920
+09:14:51     Height: 974
+09:14:52 
+09:14:52 [startMacro] Starting main loop
+09:14:52 [checkDisconnect] Checking for disconnect
+09:14:53 [updateStatus] New status: Initializing
+09:15:19 [updateStatus] New status: Performing Mouse Actions
+09:15:21 [updateStatus] New status: Using items
+09:15:21     Using item: Biome Randomizer
+09:15:28 [updateStatus] New status: Using items
+09:15:28     Using item: Merchant Teleport
+09:15:39 [updateStatus] New status: Searching for Items
+09:15:39 [updateStatus] New status: Macro Stopped
+09:15:40     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+09:15:40 Macro opened
+09:15:40 [loadData] Loading config data
+09:17:48 [stop] Terminating application.
+09:17:52 Macro opened
+09:17:52 [loadData] Loading config data
+09:18:00 =====================================
+09:18:00 [updateStatus] New status: Starting Macro
+09:18:00 System Information:
+09:18:00     OS Version: 10.0.22631
+09:18:00     AHK Version: 1.1.37.02
+09:18:01     Screen Width: 1920
+09:18:01     Screen Height: 1080
+09:18:01     Screen DPI: 144
+09:18:01     Active Language: Unknown
+09:18:01 Macro Variables:
+09:18:01     Version: v1.5.0
+09:18:01     OCR Enabled: 0
+09:18:01 [updateStatus] New status: Macro Started
+09:18:01 Roblox Information:
+09:18:01     Window ID: 0xe0f04
+09:18:01     Width: 1920
+09:18:01     Height: 974
+09:18:03 
+09:18:03 [startMacro] Starting main loop
+09:18:03 [checkDisconnect] Checking for disconnect
+09:18:04 [updateStatus] New status: Initializing
+09:18:04 [updateStatus] New status: Performing Mouse Actions
+09:18:05 [updateStatus] New status: Using items
+09:18:05     Using item: Biome Randomizer
+09:18:13 [updateStatus] New status: Using items
+09:18:13     Using item: Merchant Teleport
+09:18:22 Paths running: 0
+09:18:22 [updateStatus] New status: Macro Paused
+09:18:23 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3193
+message: 1
+extra: 
+09:19:25 [stop] Terminating application.
+09:19:29 Macro opened
+09:19:29 [loadData] Loading config data
+09:19:44 =====================================
+09:19:44 [updateStatus] New status: Starting Macro
+09:19:44 System Information:
+09:19:44     OS Version: 10.0.22631
+09:19:45     AHK Version: 1.1.37.02
+09:19:45     Screen Width: 1920
+09:19:45     Screen Height: 1080
+09:19:45     Screen DPI: 144
+09:19:45     Active Language: Unknown
+09:19:45 Macro Variables:
+09:19:45     Version: v1.5.0
+09:19:45     OCR Enabled: 0
+09:19:45 [updateStatus] New status: Macro Started
+09:19:45 Roblox Information:
+09:19:45     Window ID: 0xe0f04
+09:19:45     Width: 1920
+09:19:45     Height: 974
+09:19:45 
+09:19:45 [startMacro] Starting main loop
+09:19:45 [checkDisconnect] Checking for disconnect
+09:19:46 [updateStatus] New status: Initializing
+09:20:13 [updateStatus] New status: Performing Mouse Actions
+09:20:15 [updateStatus] New status: Using items
+09:20:15     Using item: Biome Randomizer
+09:20:22 [updateStatus] New status: Using items
+09:20:22     Using item: Merchant T
+09:20:32 Paths running: 0
+09:20:32 [updateStatus] New status: Macro Paused
+09:20:32 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3193
+message: 1
+extra: 
+09:26:20 [updateStatus] New status: Macro Stopped
+09:26:22 Macro opened
+09:26:22 [loadData] Loading config data
+10:09:58 Macro opened
+10:09:58 [loadData] Loading config data
+10:09:59     [GetRobloxHWND] Roblox Process: Unknown
+10:10:04 Current Language: English
+10:10:11 [stop] Terminating application.
+07:55:20 Macro opened
+07:55:20 [loadData] Loading config data
+07:55:20     [GetRobloxHWND] Roblox Process: Unknown
+07:58:10 [stop] Terminating application.
+08:03:02 Macro opened
+08:03:02 [loadData] Loading config data
+08:03:02     [GetRobloxHWND] Roblox Process: Unknown
+08:03:07 Current Language: English
+08:05:31 =====================================
+08:05:31 [updateStatus] New status: Starting Macro
+08:05:32 System Information:
+08:05:32     OS Version: 10.0.22631
+08:05:32     AHK Version: 1.1.37.02
+08:05:32     Screen Width: 1920
+08:05:32     Screen Height: 1080
+08:05:32     Screen DPI: 144
+08:05:32     Active Language: Unknown
+08:05:32 Macro Variables:
+08:05:32     Version: v1.5.0
+08:05:32     OCR Enabled: 0
+08:05:32 [updateStatus] New status: Macro Started
+08:05:32 Roblox Information:
+08:05:32     Window ID: 0x70034
+08:05:32     Width: 1920
+08:05:32     Height: 974
+08:05:32 
+08:05:32 [startMacro] Starting main loop
+08:05:33 [checkDisconnect] Checking for disconnect
+08:05:33 [updateStatus] New status: Initializing
+08:05:40 New Biome: Rainy
+08:06:00 [updateStatus] New status: Performing Mouse Actions
+08:06:02 [updateStatus] New status: Using items
+08:06:02     Using item: Biome Randomizer
+08:06:09 [updateStatus] New status: Using items
+08:06:09     Using item: Merchant T
+08:06:20 [updateStatus] New status: Searching for Items
+08:06:48 New Biome: Normal
+08:06:59 [checkDisconnect] Checking for disconnect
+08:07:00 [updateStatus] New status: Performing Mouse Actions
+08:07:04 [updateStatus] New status: Searching for Items
+08:07:27 [updateStatus] New status: Macro Stopped
+08:07:27     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+08:07:28 Macro opened
+08:07:28 [loadData] Loading config data
+08:09:16 =====================================
+08:09:16 [updateStatus] New status: Starting Macro
+08:09:17 System Information:
+08:09:17     OS Version: 10.0.22631
+08:09:17     AHK Version: 1.1.37.02
+08:09:17     Screen Width: 1920
+08:09:17     Screen Height: 1080
+08:09:17     Screen DPI: 144
+08:09:17     Active Language: Unknown
+08:09:17 Macro Variables:
+08:09:17     Version: v1.5.0
+08:09:17     OCR Enabled: 0
+08:09:17 [updateStatus] New status: Macro Started
+08:09:17 Roblox Information:
+08:09:17     Window ID: 0x70034
+08:09:17     Width: 1920
+08:09:17     Height: 974
+08:09:17 
+08:09:17 [startMacro] Starting main loop
+08:09:17 [checkDisconnect] Checking for disconnect
+08:09:18 [updateStatus] New status: Initializing
+08:09:45 [updateStatus] New status: Performing Mouse Actions
+08:09:47 [updateStatus] New status: Using items
+08:09:47     Using item: Biome Randomizer
+08:09:54 [updateStatus] New status: Using items
+08:09:54     Using item: Tele
+08:10:04 Paths running: 0
+08:10:04 [updateStatus] New status: Macro Paused
+08:10:04 [startMacro] Error: 
+what: GuiControl
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3193
+message: 1
+extra: 
+08:23:10 [stop] Terminating application.
+08:23:13 Macro opened
+08:23:13 [loadData] Loading config data
+08:23:13 GuiControl Error
+09:06:38 [stop] Terminating application.
+09:55:25 Macro opened
+09:55:25 [loadData] Loading config data
+09:55:26 GuiControl Error
+09:57:24 [stop] Terminating application.
+09:57:28 Macro opened
+09:57:28 [loadData] Loading config data
+09:57:59 [stop] Terminating application.
+09:58:06 Macro opened
+09:58:06 [loadData] Loading config data
+09:58:22 [stop] Terminating application.
+09:58:28 Macro opened
+09:58:28 [loadData] Loading config data
+09:59:22 [stop] Terminating application.
+09:59:32 Macro opened
+09:59:32 [loadData] Loading config data
+10:00:43 [stop] Terminating application.
+10:00:47 Macro opened
+10:00:47 [loadData] Loading config data
+10:01:32 =====================================
+10:01:32 [updateStatus] New status: Starting Macro
+10:01:33 System Information:
+10:01:33     OS Version: 10.0.22631
+10:01:33     AHK Version: 1.1.37.02
+10:01:33     Screen Width: 1920
+10:01:33     Screen Height: 1080
+10:01:33     Screen DPI: 144
+10:01:33     Active Language: Unknown
+10:01:33 Macro Variables:
+10:01:33     Version: v1.5.0
+10:01:33     OCR Enabled: 0
+10:01:33 [updateStatus] New status: Macro Started
+10:01:33 Roblox Information:
+10:01:33     Window ID: 0x70034
+10:01:33     Width: 1920
+10:01:33     Height: 974
+10:01:33 
+10:01:33 [startMacro] Starting main loop
+10:01:33 [checkDisconnect] Checking for disconnect
+10:01:34 [updateStatus] New status: Initializing
+10:01:44 [updateStatus] New status: Macro Stopped
+10:01:45 Macro opened
+10:01:45 [loadData] Loading config data
+10:02:29 [stop] Terminating application.
+10:02:32 Macro opened
+10:02:32 [loadData] Loading config data
+10:02:52 =====================================
+10:02:52 [updateStatus] New status: Starting Macro
+10:02:55 System Information:
+10:02:55     OS Version: 10.0.22631
+10:02:55     AHK Version: 1.1.37.02
+10:02:55     Screen Width: 1920
+10:02:55     Screen Height: 1080
+10:02:55     Screen DPI: 144
+10:02:55     Active Language: Unknown
+10:02:55 Macro Variables:
+10:02:55     Version: v1.5.0
+10:02:55     OCR Enabled: 0
+10:02:55 [updateStatus] New status: Macro Started
+10:02:55 Roblox Information:
+10:02:55     Window ID: 0x70034
+10:02:55     Width: 1920
+10:02:55     Height: 974
+10:02:55 
+10:02:55 [startMacro] Starting main loop
+10:02:56 [checkDisconnect] Checking for disconnect
+10:02:56 [updateStatus] New status: Initializing
+10:02:57 New Biome: Snowy
+10:03:23 [updateStatus] New status: Performing Mouse Actions
+10:03:25 [updateStatus] New status: Using items
+10:03:25     Using item: Biome Randomizer
+10:03:32 [updateStatus] New status: Using items
+10:03:32     Using item: Merchant Teleport
+10:03:41 Paths running: 0
+10:03:41 [updateStatus] New status: Macro Paused
+10:03:48 [updateStatus] New status: Searching for Items
+10:04:14 New Biome: Normal
+10:04:27 [checkDisconnect] Checking for disconnect
+10:04:27 [updateStatus] New status: Performing Mouse Actions
+10:04:29 [updateStatus] New status: Using items
+10:04:29     Using item: Merchant Teleport
+10:04:38 Paths running: 0
+10:04:38 [updateStatus] New status: Macro Running
+10:04:39 [startMacro] Error: 
+what: GuiControlGet
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3234
+message: 1
+extra: 
+10:27:02 New Biome: Windy
+10:30:08 New Biome: Normal
+10:30:56 New Biome: Starfall
+10:43:04 New Biome: Normal
+10:44:46 New Biome: Rainy
+10:46:44 New Biome: Normal
+10:46:54 New Biome: Hell
+11:57:28 Macro opened
+11:57:29 [loadData] Loading config data
+11:57:49 =====================================
+11:57:50 [updateStatus] New status: Starting Macro
+11:57:50 System Information:
+11:57:50     OS Version: 10.0.22631
+11:57:50     AHK Version: 1.1.37.02
+11:57:50     Screen Width: 1920
+11:57:50     Screen Height: 1080
+11:57:50     Screen DPI: 144
+11:57:50     Active Language: Unknown
+11:57:50 Macro Variables:
+11:57:50     Version: v1.5.0
+11:57:50     OCR Enabled: 0
+11:57:50 [updateStatus] New status: Macro Started
+11:57:50 Roblox Information:
+11:57:50     Window ID: 0x301de
+11:57:50     Width: 1920
+11:57:50     Height: 974
+11:57:50 
+11:57:51 [startMacro] Starting main loop
+11:57:51 [checkDisconnect] Checking for disconnect
+11:57:52 [updateStatus] New status: Initializing
+11:57:52 New Biome: Starfall
+11:58:18 [updateStatus] New status: Performing Mouse Actions
+11:58:20 [updateStatus] New status: Using items
+11:58:20     Using item: Biome Randomizer
+11:58:27 [updateStatus] New status: Using items
+11:58:27     Using item: Merchant Teleport
+11:58:37 Paths running: 0
+11:58:37 [updateStatus] New status: Macro Paused
+11:58:43 [updateStatus] New status: Searching for Items
+11:58:45 Paths running: 1
+11:58:45     [PausePaths] Pausing path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+11:58:45     Paused: 1
+11:58:45 [updateStatus] New status: Macro Paused
+11:59:16 Paths running: 1
+11:59:16     [ResumePaths] Resuming path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+11:59:16     Paused: 0
+11:59:16 [updateStatus] New status: Macro Running
+11:59:52 [checkDisconnect] Checking for disconnect
+11:59:52 [updateStatus] New status: Performing Mouse Actions
+11:59:54 [updateStatus] New status: Using items
+11:59:54     Using item: Merchant Teleport
+12:00:04 Paths running: 0
+12:00:04 [updateStatus] New status: Macro Running
+12:00:04 [startMacro] Error: 
+what: GuiControlGet
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3234
+message: 1
+extra: 
+12:00:55 =====================================
+12:00:55 [updateStatus] New status: Starting Macro
+12:00:55 System Information:
+12:00:55     OS Version: 10.0.22631
+12:00:56     AHK Version: 1.1.37.02
+12:00:56     Screen Width: 1920
+12:00:56     Screen Height: 1080
+12:00:56     Screen DPI: 144
+12:00:56     Active Language: Unknown
+12:00:56 Macro Variables:
+12:00:56     Version: v1.5.0
+12:00:56     OCR Enabled: 0
+12:00:56 [updateStatus] New status: Macro Started
+12:00:56 Roblox Information:
+12:00:56     Window ID: 0x301de
+12:00:56     Width: 1920
+12:00:56     Height: 974
+12:00:56 
+12:00:56 [startMacro] Starting main loop
+12:00:56 [checkDisconnect] Checking for disconnect
+12:00:57 [updateStatus] New status: Performing Mouse Actions
+12:00:58 New Biome: Starfall
+12:00:58 [updateStatus] New status: Using items
+12:00:59     Using item: Merchant Teleport
+12:01:08 Paths running: 0
+12:01:08 [updateStatus] New status: Macro Running
+12:01:08 [startMacro] Error: 
+what: GuiControlGet
+file: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\Main.ahk
+line: 3234
+message: 1
+extra: 
+12:01:57 [updateStatus] New status: Macro Stopped
+12:01:57 [stop] Terminating application.
+12:02:42 Macro opened
+12:02:42 [loadData] Loading config data
+12:02:52 =====================================
+12:02:52 [updateStatus] New status: Starting Macro
+12:02:52 System Information:
+12:02:52     OS Version: 10.0.22631
+12:02:52     AHK Version: 1.1.37.02
+12:02:52     Screen Width: 1920
+12:02:52     Screen Height: 1080
+12:02:52     Screen DPI: 144
+12:02:52     Active Language: Unknown
+12:02:52 Macro Variables:
+12:02:52     Version: v1.5.0
+12:02:52     OCR Enabled: 0
+12:02:52 [updateStatus] New status: Macro Started
+12:02:52 Roblox Information:
+12:02:52     Window ID: 0x301de
+12:02:53     Width: 1920
+12:02:53     Height: 974
+12:02:53 
+12:02:53 [startMacro] Starting main loop
+12:02:53 [checkDisconnect] Checking for disconnect
+12:02:54 [updateStatus] New status: Initializing
+12:02:54 [updateStatus] New status: Performing Mouse Actions
+12:02:54 New Biome: Starfall
+12:02:55 [updateStatus] New status: Using items
+12:02:55     Using item: Biome Randomizer
+12:03:03 [updateStatus] New status: Using items
+12:03:03     Using item: Merchant Teleport
+12:03:12 Paths running: 0
+12:03:12 [updateStatus] New status: Macro Paused
+12:03:19 [updateStatus] New status: Searching for Items
+12:03:36 Paths running: 1
+12:03:36     [PausePaths] Pausing path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+12:03:37     Paused: 1
+12:03:37 [updateStatus] New status: Macro Paused
+12:04:03 [updateStatus] New status: Macro Stopped
+12:04:04     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+12:04:05 Macro opened
+12:04:05 [loadData] Loading config data
+12:05:56 [stop] Terminating application.
+12:05:59 Macro opened
+12:05:59 [loadData] Loading config data
+12:06:00 [LogError] Error on line 2167: The following variable name contains an illegal character:
+"sigma sigma :fish: on the wall :flushed:"
+12:06:34 [stop] Terminating application.
+12:06:44 Macro opened
+12:06:44 [loadData] Loading config data
+12:06:48 [LogError] Error on line 2167: The following variable name contains an illegal character:
+"sigma sigma on the wall"
+12:08:35 [stop] Terminating application.
+12:08:59 Macro opened
+12:08:59 [loadData] Loading config data
+12:10:10 [stop] Terminating application.
+12:10:12 Macro opened
+12:10:12 [loadData] Loading config data
+12:10:23 =====================================
+12:10:23 [updateStatus] New status: Starting Macro
+12:10:24 System Information:
+12:10:24     OS Version: 10.0.22631
+12:10:24     AHK Version: 1.1.37.02
+12:10:24     Screen Width: 1920
+12:10:24     Screen Height: 1080
+12:10:24     Screen DPI: 144
+12:10:24     Active Language: Unknown
+12:10:24 Macro Variables:
+12:10:24     Version: v1.5.0
+12:10:24     OCR Enabled: 0
+12:10:24 [updateStatus] New status: Macro Started
+12:10:24 Roblox Information:
+12:10:24     Window ID: 0x301de
+12:10:24     Width: 1920
+12:10:24     Height: 974
+12:10:24 
+12:10:24 [startMacro] Starting main loop
+12:10:25 [checkDisconnect] Checking for disconnect
+12:10:25 [updateStatus] New status: Initializing
+12:10:52 [updateStatus] New status: Performing Mouse Actions
+12:10:54 [updateStatus] New status: Using items
+12:10:54     Using item: Biome Randomizer
+12:11:01 [updateStatus] New status: Using items
+12:11:01     Using item: Merchant Teleport
+12:11:11 Paths running: 0
+12:11:11 [updateStatus] New status: Macro Paused
+12:11:18 [updateStatus] New status: Searching for Items
+12:11:50 New Biome: Windy
+12:11:54 [updateStatus] New status: Macro Stopped
+12:11:54     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+12:11:55 Macro opened
+12:11:55 [loadData] Loading config data
+12:13:06 [stop] Terminating application.
+12:13:09 Macro opened
+12:13:09 [loadData] Loading config data
+12:13:15 =====================================
+12:13:15 [updateStatus] New status: Starting Macro
+12:13:15 System Information:
+12:13:15     OS Version: 10.0.22631
+12:13:15     AHK Version: 1.1.37.02
+12:13:15     Screen Width: 1920
+12:13:15     Screen Height: 1080
+12:13:15     Screen DPI: 144
+12:13:15     Active Language: Unknown
+12:13:15 Macro Variables:
+12:13:15     Version: v1.5.0
+12:13:15     OCR Enabled: 0
+12:13:15 [updateStatus] New status: Macro Started
+12:13:16 Roblox Information:
+12:13:16     Window ID: 0x301de
+12:13:16     Width: 1920
+12:13:16     Height: 974
+12:13:16 
+12:13:16 [startMacro] Starting main loop
+12:13:16 [checkDisconnect] Checking for disconnect
+12:13:17 [updateStatus] New status: Initializing
+12:13:18 New Biome: Windy
+12:13:44 [updateStatus] New status: Performing Mouse Actions
+12:13:45 [updateStatus] New status: Using items
+12:13:45     Using item: Biome Randomizer
+12:13:48 New Biome: Normal
+12:13:53 [updateStatus] New status: Using items
+12:13:53     Using item: Merchant Teleport
+12:14:00 Paths running: 0
+12:14:00 [updateStatus] New status: Macro Paused
+12:14:07 [updateStatus] New status: Searching for Items
+12:14:27 [updateStatus] New status: Macro Stopped
+12:14:28     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+12:14:29 Macro opened
+12:14:29 [loadData] Loading config data
+12:15:31 =====================================
+12:15:31 [updateStatus] New status: Starting Macro
+12:15:31 System Information:
+12:15:31     OS Version: 10.0.22631
+12:15:31     AHK Version: 1.1.37.02
+12:15:31     Screen Width: 1920
+12:15:31     Screen Height: 1080
+12:15:31     Screen DPI: 144
+12:15:31     Active Language: Unknown
+12:15:31 Macro Variables:
+12:15:31     Version: v1.5.0
+12:15:31     OCR Enabled: 0
+12:15:31 [updateStatus] New status: Macro Started
+12:15:32 Roblox Information:
+12:15:32     Window ID: 0x301de
+12:15:32     Width: 1920
+12:15:32     Height: 974
+12:15:32 
+12:15:32 [startMacro] Starting main loop
+12:15:32 [checkDisconnect] Checking for disconnect
+12:15:33 [updateStatus] New status: Initializing
+12:15:33 [updateStatus] New status: Performing Mouse Actions
+12:15:34 [updateStatus] New status: Using items
+12:15:34     Using item: Biome Randomizer
+12:15:42 [updateStatus] New status: Using items
+12:15:42     Using item: Merchant Teleport
+12:15:49 Paths running: 0
+12:15:49 [updateStatus] New status: Macro Paused
+12:15:56 [updateStatus] New status: Searching for Items
+12:16:11 [updateStatus] New status: Macro Stopped
+12:16:13     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+12:16:13 Macro opened
+12:16:13 [loadData] Loading config data
+12:16:41 [stop] Terminating application.
+12:16:43 Macro opened
+12:16:43 [loadData] Loading config data
+12:16:47 =====================================
+12:16:47 [updateStatus] New status: Starting Macro
+12:16:48 System Information:
+12:16:48     OS Version: 10.0.22631
+12:16:48     AHK Version: 1.1.37.02
+12:16:48     Screen Width: 1920
+12:16:48     Screen Height: 1080
+12:16:48     Screen DPI: 144
+12:16:48     Active Language: Unknown
+12:16:48 Macro Variables:
+12:16:48     Version: v1.5.0
+12:16:48     OCR Enabled: 0
+12:16:48 [updateStatus] New status: Macro Started
+12:16:48 Roblox Information:
+12:16:48     Window ID: 0x301de
+12:16:48     Width: 1920
+12:16:48     Height: 974
+12:16:49 
+12:16:49 [startMacro] Starting main loop
+12:16:49 [checkDisconnect] Checking for disconnect
+12:16:50 [updateStatus] New status: Initializing
+12:17:17 [updateStatus] New status: Performing Mouse Actions
+12:17:18 [updateStatus] New status: Using items
+12:17:18     Using item: Biome Randomizer
+12:17:22 New Biome: Starfall
+12:17:26 [updateStatus] New status: Using items
+12:17:26     Using item: Merchant Teleport
+12:17:33 Paths running: 0
+12:17:33 [updateStatus] New status: Macro Paused
+12:17:39 [updateStatus] New status: Searching for Items
+12:18:04 [updateStatus] New status: Macro Stopped
+12:18:04     [stop] Exiting running path: D:\other\dolphSol-v1.5.0-candidate2 (2)\dolphSol-release\paths\searchForItems.ahk
+12:18:05 Macro opened
+12:18:05 [loadData] Loading config data
+12:18:59 [stop] Terminating application.
+12:19:02 Macro opened
+12:19:02 [loadData] Loading config data
+12:19:06 [updateStatus] New status: Using items
+12:19:06     Using item: Merchant Teleport
+12:19:59 [stop] Terminating application.
+12:20:02 Macro opened
+12:20:02 [loadData] Loading config data
+12:20:05 [updateStatus] New status: Using items
+12:20:05     Using item: Merchant Teleport
+12:20:16 Paths running: 0
+12:20:16 [updateStatus] New status: Macro Paused
+12:20:46 [stop] Terminating application.
+12:20:48 Macro opened
+12:20:48 [loadData] Loading config data
+12:20:52 [updateStatus] New status: Using items
+12:20:52     Using item: Merchant Teleport
+12:21:04 Paths running: 0
+12:21:04 [updateStatus] New status: Macro Paused
+12:22:25 [stop] Terminating application.
+12:22:30 Macro opened
+12:22:30 [loadData] Loading config data
+12:22:32 [updateStatus] New status: Using items
+12:22:32     Using item: Merchant Teleport
+12:22:45 Paths running: 0
+12:22:45 [updateStatus] New status: Macro Paused
+12:23:57 [stop] Terminating application.
+12:24:01 Macro opened
+12:24:01 [loadData] Loading config data
+12:24:05 [updateStatus] New status: Using items
+12:24:05     Using item: Merchant Teleport
+12:24:14 Paths running: 0
+12:24:14 [updateStatus] New status: Macro Paused
+12:25:15     [containsText] Searching: mari  |  Found: 'marine merchant twtør '
+12:25:37 [stop] Terminating application.
+12:26:04 Macro opened
+12:26:04 [loadData] Loading config data
+12:26:07 [updateStatus] New status: Using items
+12:26:07     Using item: Merchant Teleport
+12:27:12 Paths running: 0
+12:27:12 [updateStatus] New status: Macro Paused
+12:27:45 [stop] Terminating application.
+12:27:49 Macro opened
+12:27:49 [loadData] Loading config data
+12:27:52 [updateStatus] New status: Using items
+12:27:52     Using item: Merchant Teleport
+12:28:04 Paths running: 0
+12:28:04 [updateStatus] New status: Macro Paused
+12:28:12 [stop] Terminating application.
+12:28:42 Macro opened
+12:28:42 [loadData] Loading config data
+12:28:59 [updateStatus] New status: Using items
+12:28:59     Using item: Merchant Teleport
+12:29:11 Paths running: 0
+12:29:11 [updateStatus] New status: Macro Paused
+12:30:57 [stop] Terminating application.
+12:31:01 Macro opened
+12:31:01 [loadData] Loading config data
+12:31:07 [updateStatus] New status: Using items
+12:31:07     Using item: Merchant Teleport
+12:31:17 Paths running: 0
+12:31:17 [updateStatus] New status: Macro Paused
+12:32:09 [stop] Terminating application.
+12:32:13 Macro opened
+12:32:13 [loadData] Loading config data
+12:32:17 [updateStatus] New status: Using items
+12:32:17     Using item: Merchant Teleport
+12:32:29     [containsText] Searching: failed  |  Found: 'failed '
+12:33:26 [stop] Terminating application.
+12:33:30 Macro opened
+12:33:30 [loadData] Loading config data
+12:33:33 [updateStatus] New status: Using items
+12:33:33     Using item: Merchant Teleport
+12:33:59     [containsText] Searching: failed  |  Found: 'failed '
+12:34:30 [stop] Terminating application.
+12:34:35 Macro opened
+12:34:35 [loadData] Loading config data
+12:34:38 [updateStatus] New status: Using items
+12:34:38     Using item: Merchant Teleport
+12:34:47 Paths running: 0
+12:34:47 [updateStatus] New status: Macro Paused
+12:35:05 [stop] Terminating application.
+12:35:22 Macro opened
+12:35:22 [loadData] Loading config data
+12:35:25 [updateStatus] New status: Using items
+12:35:25     Using item: Merchant Teleport
+12:35:33 Paths running: 0
+12:35:33 [updateStatus] New status: Macro Paused
+12:37:10 [stop] Terminating application.
+12:37:13 Macro opened
+12:37:13 [loadData] Loading config data
+12:37:16 [updateStatus] New status: Using items
+12:37:16     Using item: Merchant Teleport
+12:37:25     [containsText] Searching: failed  |  Found: 'failed '
+12:37:32 [updateStatus] New status: Using items
+12:37:32     Using item: Merchant Teleport
+12:38:21     [containsText] Searching: failed  |  Found: 'failed '
+01:20:19 [stop] Terminating application.
+01:20:23 Macro opened
+01:20:23 [loadData] Loading config data
+01:20:40     [containsText] Error searching 'Mari': 
+
+01:20:40     [containsText] Error searching 'Open': 
+
+01:21:07     [containsText] Error searching 'Mari': 
+
+01:21:07     [containsText] Error searching 'Open': 
+
+01:21:08     [containsText] Error searching 'Mari': 
+
+01:21:08     [containsText] Error searching 'Open': 
+
+01:21:08     [containsText] Error searching 'Mari': 
+
+01:21:08     [containsText] Error searching 'Open': 
+
+01:21:08     [containsText] Error searching 'Mari': 
+
+01:21:08     [containsText] Error searching 'Open': 
+
+01:21:09     [containsText] Error searching 'Mari': 
+
+01:21:09     [containsText] Error searching 'Open': 
+
+01:21:09     [containsText] Error searching 'Mari': 
+
+01:21:09     [containsText] Error searching 'Open': 
+
+01:21:09     [containsText] Error searching 'Mari': 
+
+01:21:09     [containsText] Error searching 'Open': 
+
+01:21:10     [containsText] Error searching 'Mari': 
+
+01:21:10     [containsText] Error searching 'Open': 
+
+01:21:10     [containsText] Error searching 'Mari': 
+
+01:21:10     [containsText] Error searching 'Open': 
+
+01:21:10     [containsText] Error searching 'Mari': 
+
+01:21:10     [containsText] Error searching 'Open': 
+
+01:21:10     [containsText] Error searching 'Mari': 
+
+01:21:10     [containsText] Error searching 'Open': 
+
+01:21:10     [containsText] Error searching 'Mari': 
+
+01:21:10     [containsText] Error searching 'Open': 
+
+01:21:10     [containsText] Error searching 'Mari': 
+
+01:21:11     [containsText] Error searching 'Open': 
+
+01:21:11     [containsText] Error searching 'Mari': 
+
+01:21:11     [containsText] Error searching 'Open': 
+
+01:21:11     [containsText] Error searching 'Mari': 
+
+01:21:11     [containsText] Error searching 'Open': 
+
+01:37:37     [containsText] Error searching 'Mari': 
+
+01:37:37     [containsText] Error searching 'Open': 
+
+01:38:10 [stop] Terminating application.
+01:38:12 Macro opened
+01:38:12 [loadData] Loading config data
+01:38:20     [containsText] Error searching 'Mari': 
+
+01:38:20     [containsText] Error searching 'Open': 
+
+01:38:20     [containsText] Error searching 'Mari': 
+
+01:38:20     [containsText] Error searching 'Open': 
+
+01:38:21     [containsText] Error searching 'Mari': 
+
+01:38:21     [containsText] Error searching 'Open': 
+
+01:38:21     [containsText] Error searching 'Mari': 
+
+01:38:21     [containsText] Error searching 'Open': 
+
+01:38:21     [containsText] Error searching 'Mari': 
+
+01:38:21     [containsText] Error searching 'Open': 
+
+01:38:21     [containsText] Error searching 'Mari': 
+
+01:38:21     [containsText] Error searching 'Open': 
+
+01:38:21     [containsText] Error searching 'Mari': 
+
+01:38:21     [containsText] Error searching 'Open': 
+
+01:38:22     [containsText] Error searching 'Mari': 
+
+01:38:22     [containsText] Error searching 'Open': 
+
+01:38:23     [containsText] Error searching 'Mari': 
+
+01:38:23     [containsText] Error searching 'Open': 
+
+01:38:23     [containsText] Error searching 'Mari': 
+
+01:38:23     [containsText] Error searching 'Open': 
+
+01:38:44 [stop] Terminating application.
+01:38:47 Macro opened
+01:38:48 [loadData] Loading config data
+01:39:29 [stop] Terminating application.
+01:39:32 Macro opened
+01:39:32 [loadData] Loading config data
+01:39:41     [containsText] Searching: mari  |  Found: 'mari '
+01:39:44     [containsText] Searching: mari  |  Found: 'mari '
+01:40:15 [stop] Terminating application.
+01:40:19 Macro opened
+01:40:19 [loadData] Loading config data
+01:40:29     [containsText] Searching: mari  |  Found: 'mari '
+01:40:48 [stop] Terminating application.
+01:40:51 Macro opened
+01:40:51 [loadData] Loading config data
+01:40:56     [containsText] Searching: mari  |  Found: 'mari '
+01:41:08     [containsText] Searching: open  |  Found: '[ open ] auto roll : o '
+01:41:20 [stop] Terminating application.
+01:41:23 Macro opened
+01:41:23 [loadData] Loading config data
+01:41:30     [containsText] Searching: mari  |  Found: 'mari '
+01:41:33     [containsText] Searching: open  |  Found: 'i open '
+01:41:56 [stop] Terminating application.
+01:41:59 Macro opened
+01:41:59 [loadData] Loading config data
+01:42:11     [containsText] Searching: mari  |  Found: 'mari '
+01:42:13     [containsText] Searching: open  |  Found: '[ open ] '
+01:42:16     [containsText] Searching: mari  |  Found: 'mari '
+01:42:17     [containsText] Searching: open  |  Found: 'open j '
+01:42:19     [containsText] Searching: mari  |  Found: 'mari '
+01:42:20     [containsText] Searching: open  |  Found: 'open '
+01:42:22     [containsText] Searching: mari  |  Found: '• mari '
+01:42:24     [containsText] Searching: open  |  Found: 'open i '
+01:42:27     [containsText] Searching: mari  |  Found: 'mari '
+01:42:29     [containsText] Searching: open  |  Found: '1 open '
+01:43:00 [stop] Terminating application.
+01:43:02 Macro opened
+01:43:02 [loadData] Loading config data
+01:43:22     [containsText] Searching: open  |  Found: 'roffox wilvqopenn)ect you '
+01:43:25     [containsText] Searching: mari  |  Found: 'rmari '
+01:43:31     [containsText] Searching: mari  |  Found: 'mari '
+01:43:53 [stop] Terminating application.
+01:43:56 Macro opened
+01:43:56 [loadData] Loading config data
+01:44:02     [containsText] Searching: mari  |  Found: 'rmari '
+01:44:05     [containsText] Searching: open  |  Found: 'open roblox will i '
+01:44:06     [containsText] Searching: mari  |  Found: 'mari '
+01:44:08     [containsText] Searching: open  |  Found: 'roffox willtopen '
+01:44:09     [containsText] Searching: mari  |  Found: 'rmari '
+01:44:10     [containsText] Searching: open  |  Found: 'openv roqlox will l - '
+01:44:13     [containsText] Searching: open  |  Found: 'open je roqlox wjll_ i - '
+01:44:14     [containsText] Searching: mari  |  Found: 'mari '
+01:44:16     [containsText] Searching: mari  |  Found: 'mari '
+01:44:16     [containsText] Searching: open  |  Found: 'openv robkox will '
+01:44:20     [containsText] Searching: open  |  Found: 'rotflox will cliopen 12 '
+01:44:22     [containsText] Searching: open  |  Found: 'open roqlox wjll_ '
+01:45:03 [stop] Terminating application.
+01:45:07 Macro opened
+01:45:07 [loadData] Loading config data
+01:46:22     [containsText] Searching: mari  |  Found: 'mari '
+01:46:28     [containsText] Searching: mari  |  Found: 'mari '
+01:47:13 [stop] Terminating application.
+01:47:17 Macro opened
+01:47:17 [loadData] Loading config data
+01:47:29     [containsText] Searching: mari  |  Found: 'mari '
+01:47:32     [containsText] Searching: open  |  Found: '(lopen j '
+01:47:33     [containsText] Searching: mari  |  Found: 'mari '
+01:47:34     [containsText] Searching: open  |  Found: '(lopen j '
+01:47:35     [containsText] Searching: mari  |  Found: 'mari '
+01:47:36     [containsText] Searching: open  |  Found: '(topen j '
+01:47:38     [containsText] Searching: mari  |  Found: 'mari '
+01:48:19     [containsText] Searching: open  |  Found: '[ open j ox uviiir '
+01:48:21     [containsText] Searching: mari  |  Found: 'mari '
+01:48:24     [containsText] Searching: mari  |  Found: 'mari '
+01:48:25     [containsText] Searching: open  |  Found: 'ox will i (t open i '
+01:48:26     [containsText] Searching: mari  |  Found: 'mari '
+01:48:27     [containsText] Searching: open  |  Found: 'llox will (iiopenll '
+01:48:28     [containsText] Searching: mari  |  Found: 'mari '
+01:48:29     [containsText] Searching: open  |  Found: 'open j dox will isconnq '
+01:49:05 [stop] Terminating application.
+01:49:07 Macro opened
+01:49:07 [loadData] Loading config data
+01:49:32     [containsText] Searching: mari  |  Found: '-v rmari '
+01:49:35     [containsText] Searching: mari  |  Found: 'mari '
+01:49:35     [containsText] Searching: open  |  Found: '[open j '
+01:49:38     [containsText] Searching: mari  |  Found: 'rmari '
+01:49:41     [containsText] Searching: mari  |  Found: 'r mari '
+01:49:45     [containsText] Searching: open  |  Found: '[iopeni '
+01:50:48     [containsText] Searching: mari  |  Found: 'mari '
+01:50:49     [containsText] Searching: open  |  Found: '[open j '
+01:51:20 [stop] Terminating application.
+01:53:43 Macro opened
+01:53:43 [loadData] Loading config data
+01:54:16     [containsText] Searching: mari  |  Found: 'mari '
+01:54:18     [containsText] Searching: open  |  Found: 'open-12 '
+01:54:20     [containsText] Searching: mari  |  Found: 'mari '
+01:54:21     [containsText] Searching: open  |  Found: 'open ] will isconne '
+01:54:22     [containsText] Searching: mari  |  Found: 'mari '
+01:54:23     [containsText] Searching: open  |  Found: 'ctlopenn) '
+01:54:24     [containsText] Searching: mari  |  Found: 'mari '
+01:54:27     [containsText] Searching: open  |  Found: 'open ] will isconne '
+01:54:28     [containsText] Searching: mari  |  Found: 'mari '
+01:54:29     [containsText] Searching: open  |  Found: '(open i '
+01:54:31     [containsText] Searching: open  |  Found: '[opend '
+01:54:32     [containsText] Searching: mari  |  Found: 'mari '
+01:54:33     [containsText] Searching: mari  |  Found: 'mari '
+01:54:35     [containsText] Searching: open  |  Found: 'j openx will is on '
+01:54:38     [containsText] Searching: mari  |  Found: 'mari '
+01:54:42     [containsText] Searching: mari  |  Found: 'mari '
+01:55:48     [containsText] Searching: mari  |  Found: 'mari '
+01:55:49     [containsText] Searching: open  |  Found: 'open ] will isconne '
+01:55:50     [containsText] Searching: mari  |  Found: 'mari '
+01:56:45 [stop] Terminating application.
+01:56:48 Macro opened
+01:56:48 [loadData] Loading config data
+01:57:31     [containsText] Searching: mari  |  Found: 'mari '
+01:57:37     [containsText] Searching: mari  |  Found: 'mari '
+01:57:39     [containsText] Searching: mari  |  Found: 'mari '
+01:57:39     [containsText] Searching: open  |  Found: '[open je '
+01:57:40     [containsText] Searching: mari  |  Found: 'mari '
+01:57:45     [containsText] Searching: mari  |  Found: 'mari '
+01:57:45     [containsText] Searching: open  |  Found: 'will ctiopen j '
+01:57:49     [containsText] Searching: mari  |  Found: 'mari '
+01:57:49     [containsText] Searching: open  |  Found: 'c[iopen j? '
+01:58:00     [containsText] Searching: open  |  Found: 'open '
+01:58:02     [containsText] Searching: open  |  Found: 'open '
+01:58:03     [containsText] Searching: open  |  Found: 'open '
+01:58:04     [containsText] Searching: open  |  Found: 'open '
+01:58:06     [containsText] Searching: open  |  Found: 'open '
+01:58:39     [containsText] Searching: mari  |  Found: 'mari '
+01:58:57 [stop] Terminating application.
+01:59:00 Macro opened
+01:59:00 [loadData] Loading config data
+01:59:25     [containsText] Searching: mari  |  Found: 'mari '
+01:59:26     [containsText] Searching: mari  |  Found: 'mari '
+01:59:28     [containsText] Searching: mari  |  Found: 'mari '
+01:59:28     [containsText] Searching: open  |  Found: 'open ] will isconne '
+01:59:29     [containsText] Searching: mari  |  Found: 'mari '
+01:59:30     [containsText] Searching: open  |  Found: 'cliopenj2 '
+01:59:31     [containsText] Searching: mari  |  Found: 'mari '
+01:59:33     [containsText] Searching: open  |  Found: 'will cliopenu '
+01:59:35     [containsText] Searching: mari  |  Found: 'mari '
+01:59:35     [containsText] Searching: open  |  Found: 'open '
+01:59:36     [containsText] Searching: mari  |  Found: 'mari '
+01:59:37     [containsText] Searching: open  |  Found: 'open '
+01:59:38     [containsText] Searching: mari  |  Found: 'mari '
+01:59:38     [containsText] Searching: open  |  Found: 'open '
+01:59:42     [containsText] Searching: mari  |  Found: 'rmari '
+01:59:42     [containsText] Searching: open  |  Found: 'open '
+01:59:44     [containsText] Searching: mari  |  Found: 'mari '
+01:59:44     [containsText] Searching: open  |  Found: 'open '
+01:59:45     [containsText] Searching: mari  |  Found: 'mari '
+01:59:46     [containsText] Searching: open  |  Found: 'open '
+01:59:47     [containsText] Searching: open  |  Found: 'open '
+01:59:48     [containsText] Searching: mari  |  Found: 'mari '
+01:59:48     [containsText] Searching: open  |  Found: 'open '
+01:59:49     [containsText] Searching: mari  |  Found: 'mari '
+01:59:50     [containsText] Searching: open  |  Found: 'open '
+01:59:51     [containsText] Searching: open  |  Found: 'open '
+01:59:52     [containsText] Searching: mari  |  Found: 'mari '
+01:59:52     [containsText] Searching: open  |  Found: 'open '
+01:59:53     [containsText] Searching: mari  |  Found: 'mari '
+01:59:54     [containsText] Searching: open  |  Found: 'open '
+01:59:55     [containsText] Searching: mari  |  Found: 'mari '
+01:59:56     [containsText] Searching: open  |  Found: 'open '
+01:59:57     [containsText] Searching: mari  |  Found: 'mari '
+01:59:58     [containsText] Searching: open  |  Found: 'open '
+02:00:01     [containsText] Searching: open  |  Found: '[ open i '
+02:00:02     [containsText] Searching: mari  |  Found: 'mari '
+02:00:03     [containsText] Searching: open  |  Found: '[ open i '
+02:00:04     [containsText] Searching: mari  |  Found: 'mari '
+02:00:06     [containsText] Searching: open  |  Found: '[ open i '
+02:00:08     [containsText] Searching: mari  |  Found: 'mari '
+02:00:09     [containsText] Searching: open  |  Found: 'open '
+02:00:11     [containsText] Searching: mari  |  Found: 'mari '
+02:00:12     [containsText] Searching: open  |  Found: 'open '
+02:00:13     [containsText] Searching: mari  |  Found: 'mari '
+02:00:14     [containsText] Searching: open  |  Found: 'open '
+02:00:15     [containsText] Searching: mari  |  Found: 'mari '
+02:00:16     [containsText] Searching: open  |  Found: 'open '
+02:00:17     [containsText] Searching: mari  |  Found: 'mari '
+02:00:17     [containsText] Searching: open  |  Found: 'open '
+02:00:18     [containsText] Searching: mari  |  Found: 'mari '
+02:00:19     [containsText] Searching: open  |  Found: 'open '
+02:00:24     [containsText] Searching: mari  |  Found: 'mari '
+02:00:27     [containsText] Searching: open  |  Found: '[ open j '
+02:00:28     [containsText] Searching: mari  |  Found: 'mari '
+02:00:28     [containsText] Searching: open  |  Found: '[ open j '
+02:00:29     [containsText] Searching: mari  |  Found: 'mari '
+02:00:30     [containsText] Searching: open  |  Found: 'open '
+02:00:31     [containsText] Searching: mari  |  Found: 'mari '
+02:00:32     [containsText] Searching: open  |  Found: '[ open j '
+02:00:38     [containsText] Searching: mari  |  Found: 'mari '
+02:00:39     [containsText] Searching: open  |  Found: '[ open j '
+02:00:46     [containsText] Searching: mari  |  Found: 'mari '
+02:00:47     [containsText] Searching: open  |  Found: '[ open j '
+02:00:48     [containsText] Searching: mari  |  Found: 'mari '
+02:00:48     [containsText] Searching: open  |  Found: '[ open j '
+02:00:50     [containsText] Searching: mari  |  Found: 'mari '
+02:00:50     [containsText] Searching: open  |  Found: 'open '
+02:00:51     [containsText] Searching: mari  |  Found: 'mari '
+02:00:51     [containsText] Searching: open  |  Found: 'open '
+02:00:52     [containsText] Searching: mari  |  Found: 'mari '
+02:00:52     [containsText] Searching: open  |  Found: 'open '
+02:00:53     [containsText] Searching: mari  |  Found: 'mari '
+02:00:54     [containsText] Searching: open  |  Found: 'open '
+02:00:56     [containsText] Searching: mari  |  Found: 'mari '
+02:00:56     [containsText] Searching: open  |  Found: 'open '
+02:01:01     [containsText] Searching: mari  |  Found: 'mari '
+02:01:02     [containsText] Searching: open  |  Found: 'open '
+02:01:55     [containsText] Searching: mari  |  Found: 'mari '
+02:01:56     [containsText] Searching: open  |  Found: 'open '
+02:01:56     [containsText] Searching: mari  |  Found: 'mari '
+02:01:57     [containsText] Searching: open  |  Found: 'open '
+02:01:59     [containsText] Searching: mari  |  Found: 'mari '
+02:01:59     [containsText] Searching: open  |  Found: 'open '
+02:02:13 [stop] Terminating application.
+02:02:18 Macro opened
+02:02:18 [loadData] Loading config data
+02:02:25     [containsText] Searching: mari  |  Found: 'mari '
+02:02:25     [containsText] Searching: open  |  Found: 'open '
+02:02:26     [containsText] Searching: mari  |  Found: 'mari '
+02:02:27     [containsText] Searching: open  |  Found: 'open '
+02:03:26     [containsText] Searching: open  |  Found: 'open '
+02:03:27     [containsText] Searching: mari  |  Found: 'mari '
+02:03:28     [containsText] Searching: open  |  Found: 'open '
+02:03:28     [containsText] Searching: mari  |  Found: 'mari '
+02:03:29     [containsText] Searching: open  |  Found: 'open '
+02:03:30     [containsText] Searching: mari  |  Found: 'mari '
+02:03:30     [containsText] Searching: open  |  Found: 'open '
+02:03:31     [containsText] Searching: mari  |  Found: 'mari '
+02:03:31     [containsText] Searching: open  |  Found: 'open '
+02:03:32     [containsText] Searching: mari  |  Found: 'mari '
+02:03:32     [containsText] Searching: open  |  Found: 'open '
+02:03:33     [containsText] Searching: mari  |  Found: 'mari '
+02:03:33     [containsText] Searching: open  |  Found: 'open '
+02:03:34     [containsText] Searching: mari  |  Found: 'mari '
+02:03:34     [containsText] Searching: open  |  Found: 'open '
+02:03:35     [containsText] Searching: mari  |  Found: 'mari '
+02:03:36     [containsText] Searching: open  |  Found: 'open '
+02:03:58     [containsText] Searching: mari  |  Found: 'mari '
+02:03:59     [containsText] Searching: open  |  Found: 'open '
+02:04:00     [containsText] Searching: mari  |  Found: 'mari '
+02:04:00     [containsText] Searching: open  |  Found: 'open '
+02:04:01     [containsText] Searching: mari  |  Found: 'mari '
+02:04:01     [containsText] Searching: open  |  Found: 'open '
+02:04:02     [containsText] Searching: mari  |  Found: 'mari '
+02:04:03     [containsText] Searching: open  |  Found: 'open '
+02:04:03     [containsText] Searching: mari  |  Found: 'mari '
+02:04:04     [containsText] Searching: open  |  Found: 'open '
+02:04:05     [containsText] Searching: mari  |  Found: 'mari '
+02:04:05     [containsText] Searching: open  |  Found: 'open '
+02:04:06     [containsText] Searching: mari  |  Found: 'mari '
+02:04:07     [containsText] Searching: open  |  Found: 'open '
+02:04:08     [containsText] Searching: mari  |  Found: 'mari '
+02:04:08     [containsText] Searching: open  |  Found: 'open '
+02:04:09     [containsText] Searching: mari  |  Found: 'mari '
+02:04:10     [containsText] Searching: open  |  Found: 'open '
+02:04:12     [containsText] Searching: mari  |  Found: 'mari '
+02:04:13     [containsText] Searching: mari  |  Found: 'mari '
+02:05:46 [stop] Terminating application.
+02:05:50 Macro opened
+02:05:50 [loadData] Loading config data
+03:42:35 [stop] Terminating application.
